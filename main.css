@@ -112,3 +112,10 @@ p {
 .btn btn-dark my-2{
     color: gre;
 }
+
+.botaozap{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
