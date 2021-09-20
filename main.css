@@ -119,3 +119,10 @@ p {
     margin: auto;
 }
 
+.navbar-brand {
+    margin-right: 0;
+}
+
+.logo-position{
+    margin-right: 20;
+}
