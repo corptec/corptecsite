@@ -126,4 +126,15 @@ p {
 
 .logo-position{
     margin-right: 20;
+};
+/* 
+.plansnav{
+    color: white;
+    background-color: white;
+
+} */
+
+.navbar-brand2{
+    font-size: smaller;
+    
 }
