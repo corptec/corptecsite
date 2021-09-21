@@ -13,4 +13,9 @@ body{
     font-family: 'Roboto', sans-serif;
     font-style: inherit;
     text-align: center;
+}.w3-cente, a{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    
 }
